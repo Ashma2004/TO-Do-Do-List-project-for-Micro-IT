@@ -18,7 +18,6 @@ python todo.py
 ## 📂 Project Structure
 
 - `todo.py` → Main Python script
-- `tasks.txt` → Stores the list of tasks (optional, created at runtime)
 
 ## 📌 Internship Info
 
